@@ -1,0 +1,84 @@
+/* generated in /var/www/html/wp-content/themes/bazaar/assets/custom-styles/general-custom-styles.php bazaar_qodef_h1_styles function */
+h1 { font-size: 60px;}
+
+/* generated in /var/www/html/wp-content/themes/bazaar/assets/custom-styles/general-custom-styles.php bazaar_qodef_h2_styles function */
+h2 { font-size: 35px;}
+
+/* generated in /var/www/html/wp-content/themes/bazaar/assets/custom-styles/general-custom-styles.php bazaar_qodef_h3_styles function */
+h3 { font-size: 30px;}
+
+/* generated in /var/www/html/wp-content/themes/bazaar/assets/custom-styles/general-custom-styles.php bazaar_qodef_h4_styles function */
+h4 { font-size: 23px;}
+
+/* generated in /var/www/html/wp-content/themes/bazaar/assets/custom-styles/general-custom-styles.php bazaar_qodef_h5_styles function */
+h5 { font-size: 16px;}
+
+/* generated in /var/www/html/wp-content/themes/bazaar/assets/custom-styles/general-custom-styles.php bazaar_qodef_h6_styles function */
+h6 { color: #999999;font-size: 12px;font-weight: 300;}
+
+/* generated in /var/www/html/wp-content/themes/bazaar/assets/custom-styles/general-custom-styles.php bazaar_qodef_text_styles function */
+p { font-size: 15px;}
+
+/* generated in /var/www/html/wp-content/themes/bazaar/framework/modules/contactform7/custom-styles/contact-form.php bazaar_qodef_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz { color: #949494;font-size: 15px;background-color: rgba(255, 255, 255, 0);border-color: rgba(0, 0, 0, 1);border-width: 1px;padding-top: 14px;padding-right: 20px;padding-bottom: 14px;padding-left: 20px;}
+
+/* generated in /var/www/html/wp-content/themes/bazaar/framework/modules/contactform7/custom-styles/contact-form.php bazaar_qodef_contact_form7_focus_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date:focus, .cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea:focus, .cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz:focus { color: #949494;background-color: rgba(255, 255, 255, 0);border-color: rgba(0, 0, 0, 1);}
+
+/* generated in /var/www/html/wp-content/themes/bazaar/framework/modules/contactform7/custom-styles/contact-form.php bazaar_qodef_contact_form7_label_styles_1 function */
+.cf7_custom_style_1 p { color: #000000;font-size: 15px;}
+
+/* generated in /var/www/html/wp-content/themes/bazaar/framework/modules/contactform7/custom-styles/contact-form.php bazaar_qodef_contact_form7_button_hover_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover { color: #ffffff;background-color: rgba(47, 47, 47, 1);border-color: rgba(47, 47, 47, 1);}
+
+/* generated in /var/www/html/wp-content/themes/bazaar/framework/modules/contactform7/custom-styles/contact-form.php bazaar_qodef_contact_form7_text_styles_2 function */
+.cf7_custom_style_2 textarea.wpcf7-form-control.wpcf7-textarea { height: 50px;}
+
+/* generated in /var/www/html/wp-content/themes/bazaar/framework/modules/contactform7/custom-styles/contact-form.php bazaar_qodef_contact_form7_text_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_2 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_2 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-quiz { color: #939292;font-family: Open Sans;font-size: 15px;font-weight: 400;border-color: rgba(0, 0, 0, 1);}
+
+/* generated in /var/www/html/wp-content/themes/bazaar/framework/modules/contactform7/custom-styles/contact-form.php bazaar_qodef_contact_form7_focus_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-text:focus, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-number:focus, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-date:focus, .cf7_custom_style_2 textarea.wpcf7-form-control.wpcf7-textarea:focus, .cf7_custom_style_2 select.wpcf7-form-control.wpcf7-select:focus, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-quiz:focus { color: #939292;border-color: rgba(0, 0, 0, 1);}
+
+/* generated in /var/www/html/wp-content/themes/bazaar/framework/modules/contactform7/custom-styles/contact-form.php bazaar_qodef_contact_form7_button_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-submit { padding-top: 0;padding-bottom: 0;height: 65px;line-height: 65px;}
+
+/* generated in /var/www/html/wp-content/themes/bazaar/framework/modules/contactform7/custom-styles/contact-form.php bazaar_qodef_contact_form7_button_hover_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover { background-color: rgba(47, 47, 47, 1);border-color: rgba(47, 47, 47, 1);}
+
+/* generated in /var/www/html/wp-content/themes/bazaar/framework/modules/contactform7/custom-styles/contact-form.php bazaar_qodef_contact_form7_text_styles_3 function */
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_3 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_3 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-quiz { color: #949494;font-size: 12px;font-weight: 400;padding-top: 11px;padding-right: 10px;padding-bottom: 11px;padding-left: 18px;}
+
+/* generated in /var/www/html/wp-content/themes/bazaar/framework/modules/contactform7/custom-styles/contact-form.php bazaar_qodef_contact_form7_focus_styles_3 function */
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-text:focus, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-number:focus, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-date:focus, .cf7_custom_style_3 textarea.wpcf7-form-control.wpcf7-textarea:focus, .cf7_custom_style_3 select.wpcf7-form-control.wpcf7-select:focus, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-quiz:focus { color: #949494;}
+
+/* generated in /var/www/html/wp-content/themes/bazaar/framework/modules/error404/custom-styles/custom-styles.php bazaar_qodef_404_header_general_styles function */
+.qodef-404-page .qodef-page-header .qodef-menu-area { background-color: rgba(255, 255, 255, 0) !important;}
+
+/* generated in /var/www/html/wp-content/themes/bazaar/framework/modules/error404/custom-styles/custom-styles.php bazaar_qodef_404_footer_top_general_styles function */
+.qodef-404-page .qodef-content { background-image: url(http://bazaar.select-themes.com/wp-content/uploads/2017/07/404-img.jpg);background-position: center 0;background-size: cover;background-repeat: no-repeat;}
+
+/* generated in /var/www/html/wp-content/themes/bazaar/framework/modules/header/types/header-minimal/admin/custom-styles/full-screen-menu-custom-styles.php bazaar_qodef_fullscreen_menu_general_styles function */
+.qodef-fullscreen-menu-holder { background-image: url(http://bazaar.select-themes.com/wp-content/uploads/2017/06/fullscreen-menu-bacground-img.jpg);background-position: center 0;background-repeat: no-repeat;}
+
+/* generated in /var/www/html/wp-content/themes/bazaar/framework/modules/header/types/top-header/admin/custom-styles/top-header-custom-styles.php bazaar_qodef_header_top_bar_styles function */
+.qodef-top-bar-background { height: 91px;}
+
+/* generated in /var/www/html/wp-content/themes/bazaar/framework/modules/header/admin/custom-styles/header-custom-styles.php bazaar_qodef_header_menu_area_styles function */
+.qodef-page-header .qodef-menu-area { height: 90px !important;}
+
+/* generated in /var/www/html/wp-content/themes/bazaar/framework/modules/header/admin/custom-styles/header-custom-styles.php bazaar_qodef_header_logo_area_styles function */
+.qodef-page-header .qodef-logo-area { height: 90px !important;}
+
+/* generated in /var/www/html/wp-content/themes/bazaar/framework/modules/sidearea/admin/custom-styles/sidearea-custom-styles.php bazaar_qodef_side_area_slide_from_right_type_style function */
+.qodef-side-menu-slide-from-right .qodef-side-menu { right: -600px;width: 600px;}
+
+/* generated in /var/www/html/wp-content/themes/bazaar/framework/modules/sidearea/admin/custom-styles/sidearea-custom-styles.php bazaar_qodef_side_area_styles function */
+.qodef-side-menu { text-align: center;}
+
+/* generated in /var/www/html/wp-content/themes/bazaar/framework/modules/sidearea/admin/custom-styles/sidearea-custom-styles.php bazaar_qodef_side_area_styles function */
+.qodef-side-menu .widget img { margin: 0 auto;}
+
+/* generated in /var/www/html/wp-content/themes/bazaar/framework/modules/title/admin/custom-styles/title-custom-styles.php bazaar_qodef_title_area_typography_style function */
+.qodef-title-holder .qodef-title-wrapper .qodef-page-title { text-transform: lowercase;}
+
